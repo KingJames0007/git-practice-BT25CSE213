@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello $1"
+if [ -z "$1" ]; then echo "Hello User"; else echo "Hello $1"; fi
