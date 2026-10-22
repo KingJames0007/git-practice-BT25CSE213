@@ -1,1 +1,1 @@
-Mode: feature branch
+Mode: main branch
