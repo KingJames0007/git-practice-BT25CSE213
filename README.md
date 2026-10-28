@@ -33,4 +33,4 @@ bash exercise-02/menu.sh
 ## Evidence of GitHub Activities
 - [Link to Issue 1: Create greeting script](https://github.com/KingJames0007/git-practice-BT25CSE213/issues/1)
 - [Link to Issue 2: Add menu options](https://github.com/KingJames0007/git-practice-BT25CSE213/issues/2)
-- [Link to Pull Request: Merge feature/menu]((https://github.com/KingJames0007/git-practice-BT25CSE213/pull/3))
+- [Link to Pull Request: Merge feature/menu](https://github.com/KingJames0007/git-practice-BT25CSE213/pull/3)
